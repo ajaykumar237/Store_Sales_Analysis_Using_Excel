@@ -1,4 +1,4 @@
-# Store_Sales_Analysis_Using_Excel
+# Store Sales Analysis Using Excel
 
 - Developed an interactive Excel dashboard, enhancing strategic decision-making with dynamic visualizations
 - Employed Advance Excel functions (VLOOKUP, Pivot Tables) for in-depth data analysis and report creation
