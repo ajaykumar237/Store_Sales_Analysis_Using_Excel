@@ -20,15 +20,16 @@ In the initial data preparation phase, performed the following tasks:
 ### Results/ Findings
 
 Based on the analysis, recommend the following actions:
-- invest in
-- kjd
-- djjm
+- Women are more likey to buy compared to men (~65%)
+- Maharashtra, Karnataka, Uttar Pradesh are the top 3 buying states (~35%)
+- Adult age group 30-49 years contributing max (~50%)
+-  Amazon, Flipkart and Myntra are max contributing (~80%)
 
 ### Recommendations
 Based on the analysis, recommend the following actions:
-   - hjdbj
-  - jsn
-  - smms
+   - Target women customers of age group 30-49 years
+  -   Aim for women who lives in Maharashtra, Karnataka, Uttar Pradesh
+  - Show ads/coupons/offers availabe on Amazon, Flipkart and Myntra
 ### Limitations
 
 
