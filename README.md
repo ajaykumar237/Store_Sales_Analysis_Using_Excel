@@ -3,6 +3,11 @@
 ### Project Overview
 This project aims to provide insights into the sales performance of a store for the past year 2022. So that, store can understand their customers and increase sales in the upcoming year 2023. 
 
+
+
+
+![Store_Dashboard](https://github.com/user-attachments/assets/321b3c6b-c33d-4964-a3b8-a08cc9fa5917)
+
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "Sales Data.xlsx" file, containing detailed information about each sale made by the store.
 ### Tools
@@ -13,6 +18,7 @@ In the initial data preparation phase, performed the following tasks:
 1. Data loading and inspection
 2. Data Cleaning - made data consistent in columns (gender, quantity)
 3. Data Processing - made two new columns (age-group, month)
+
 
 ### Data Analysis
 1. Used pivot table to calcualte and analyse data
