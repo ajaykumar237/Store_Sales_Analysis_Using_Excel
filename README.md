@@ -5,7 +5,7 @@ This project aims to provide insights into the sales performance of a store for 
 
 
 
-
+### Dashboard
 ![Store_Dashboard](https://github.com/user-attachments/assets/321b3c6b-c33d-4964-a3b8-a08cc9fa5917)
 
 ### Data Sources
