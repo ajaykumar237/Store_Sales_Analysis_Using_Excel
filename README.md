@@ -17,7 +17,7 @@ Sales Data: The primary dataset used for this analysis is the "raw_storedata.xls
 In the initial data preparation phase, performed the following tasks:
 1. Data loading and inspection
 2. Data Cleaning - made data consistent in columns (gender, quantity)
-3. Data Processing - made two new columns (age-group, month)
+3. Data Processing - added two new columns (age-group, month)
 
 
 ### Data Analysis
