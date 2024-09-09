@@ -9,7 +9,7 @@ This project aims to provide insights into the sales performance of a store for 
 ![Store_Dashboard](https://github.com/user-attachments/assets/321b3c6b-c33d-4964-a3b8-a08cc9fa5917)
 
 ### Data Sources
-Sales Data: The primary dataset used for this analysis is the "Sales Data.xlsx" file, containing detailed information about each sale made by the store.
+Sales Data: The primary dataset used for this analysis is the "raw_storedata.xlsx" file, containing detailed information about each sale made by the store.
 ### Tools
 - Excel - Data Cleaning, Data Analysis and Dashboard Creation
   
